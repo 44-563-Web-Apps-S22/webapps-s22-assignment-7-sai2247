@@ -1,7 +1,7 @@
 # WebApps-S22-Assignment-7
 An assignment on java script modifying the DOM and using anonymous callback functions.
-<a href=" https://44-563-web-apps-s22.github.io/webapps-s22-assignment-7-sai2247/reaction.html">reaction.html</a>
-<br>
-<a href=" https://44-563-web-apps-s22.github.io/webapps-s22-assignment-7-sai2247/hunt.html">hunt.html</a>
-<br>
-<a href=" https://44-563-web-apps-s22.github.io/webapps-s22-assignment-7-sai2247/queue.html>queue.html</a>
+ https://44-563-web-apps-s22.github.io/webapps-s22-assignment-7-sai2247/reaction.html
+ <br>
+  https://44-563-web-apps-s22.github.io/webapps-s22-assignment-7-sai2247/hunt.html
+  <br>
+   https://44-563-web-apps-s22.github.io/webapps-s22-assignment-7-sai2247/queue.html
